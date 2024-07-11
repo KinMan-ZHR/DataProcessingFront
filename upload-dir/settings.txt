@@ -1,0 +1,2 @@
+root: E:\nvm
+path: E:\nodejs
